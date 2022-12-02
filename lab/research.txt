@@ -1,0 +1,11 @@
+Cyber Attacks:
+
+The reason why Cyber Attacks occure can be due to outdated protocoles. 
+For example, the Yahoo security breach. Yahoo used MD5 for some of their information, 
+which is much more easily decipherable than more powerful protocoles like bcrypt.
+Which is why it remains important,that as technology continues to become more powerful, that we are always constantly adapting and 
+changing and adapting technology to match the advancments happening. 
+
+
+“Yahoo! Data Breaches.” Wikipedia, Wikimedia Foundation, 5 Oct. 2022,
+ https://en.wikipedia.org/wiki/Yahoo!_data_breaches#:~:text=The%20hackers%20had%20obtained%20data,unencrypted%20security%20questions%20and%20answers. 
